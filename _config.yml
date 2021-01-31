@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+##theme                  : "minimal-mistakes-jekyll"
+#remote_theme           : "kwYoohae/kwYoohae.github.io"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "yoo haechan"
   avatar           : "/assets/images/ogu.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "My coding pages"
   location         : "Somewhere"
   email            :
   links:
@@ -209,7 +209,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -270,7 +270,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -281,8 +281,12 @@ defaults:
       related: true
 
 - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
