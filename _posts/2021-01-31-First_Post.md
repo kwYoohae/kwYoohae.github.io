@@ -1,10 +1,12 @@
-# Front Matter
 ---
-date: 2021-01-31
-title: "첫 번째 글"
-categories: blog
-tags: jekyll
-# 목차
-toc: true
-toc_sticky: true
+title : "github.io 블로그 시작하기"
+excerpt: "Github 블로그 테스트"
+
+categories:
+  notepad
+tags:
+  notepad
 ---
+
+Github Blog 테스트입니다
+이 글의 제목은 {{page.title}}입니다.
