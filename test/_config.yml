@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Minimal Mistakes"
+locale                   : "ko-KR"
+title                    : "코딩 블로그"
 title_separator          : "-"
 subtitle                 : "Development Test Site"
-name                     : "Your Name"
-description              : "Minimal Mistakes theme test."
+name                     : "kwYoohae"
+description              : "코딩 연습장"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/test"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -46,9 +46,9 @@ search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : "lunr"
 algolia:
-  application_id         : "QB6HVGBSBA"
-  index_name             : "dev_minimal-mistakes"
-  search_only_api_key    : "9d5014e5bbc77372547bce778dfa5663"
+  application_id         : # "QB6HVGBSBA"
+  index_name             : #"dev_minimal-mistakes"
+  search_only_api_key    : #"9d5014e5bbc77372547bce778dfa5663"
   powered_by             : true
 
 # SEO Related
@@ -58,12 +58,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "mmistakes"
+  username               : "Empty"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo.jpg"
+og_image                 : "/assets/images/ogu.PNg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg"
+  name             : "kwYoohae"
+  avatar           : "/assets/images/ogu.PNG"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   links:
-    - label: "Your Website"
+    - label: "My Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
+      url: "https://kwYoohae.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -109,7 +109,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/kwYoohae"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
