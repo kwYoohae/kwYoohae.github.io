@@ -1,6 +1,6 @@
 ---
 title : "[프로그래머스] [1차] 비밀지도"
-excerpt: "코딩테스트연습 / 2018"
+excerpt: "코딩테스트연습 / 2018 KAKAO BLIND RECRUITMENT"
 
 categories:
   - Programmers
@@ -9,7 +9,7 @@ tags:
   - Programmers
 ---
 ># __문제__
-[문제](../../../assets/images/Secret.PNG)
+![문제](../../../assets/images/Secret.PNG)
 
 ># __[1차] 비밀지도__
 
