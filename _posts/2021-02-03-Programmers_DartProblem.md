@@ -4,7 +4,6 @@ excerpt: "코딩테스트연습 / 2018 KAKAO BLIND RECRUITMENT"
 
 categories:
   - Algorithm
-  - Programmers
 tags:
   - Algorithm
   - Programmers
