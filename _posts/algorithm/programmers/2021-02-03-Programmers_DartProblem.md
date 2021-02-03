@@ -3,7 +3,7 @@ title : "[프로그래머스] [1차]다트 게임"
 excerpt: "코딩테스트연습 / 2018 KAKAO BLIND RECRUITMENT"
 
 categories:
-  - Algorithm
+  - Programmers
 tags:
   - Algorithm
   - Programmers

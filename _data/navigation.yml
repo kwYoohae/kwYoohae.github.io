@@ -9,4 +9,19 @@ main:
   - title: "태그"
     url: /tags/    
   # - title: "Sitemap"
-  #   url: /collection-archive
+  #   url: /collection-archive\
+
+docs:
+  - title: C++
+    children:
+      - title: "STL"
+        url: categories/cpp-stl
+  - title: 알고리즘
+    children:
+      - title: "프로그래머스"
+        url: /categories/programmers
+  - title: 블로그
+    children:
+      - title: "잡담"
+        url: /categories/blog
+

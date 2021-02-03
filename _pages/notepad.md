@@ -3,6 +3,8 @@ title: "notepad"
 permalink: /categories/notepad/
 layout: category
 author_profile: true
+sidebar:
+    nav: "docs"
 taxonomy: notepad
 ---
 
