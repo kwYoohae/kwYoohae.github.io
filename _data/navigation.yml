@@ -20,6 +20,8 @@ docs:
     children:
       - title: "프로그래머스"
         url: /categories/programmers
+      - title: "백준온라인저지"
+        url: /categories/boj
   - title: 블로그
     children:
       - title: "잡담"
