@@ -1,5 +1,5 @@
 ---
-title: "잡담"
+title: "백준온라인저지"
 layout: archive
 permalink: categories/boj
 author_profile: true
