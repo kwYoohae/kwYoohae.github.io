@@ -11,7 +11,7 @@ tags:
 ># __Hello_Spring__
 ![스프링사진1](../../../assets/images/spring/hello_spring1.PNG)
 
-- `build.gradle`
+### - `build.gradle`
 ```java
 plugins {
 	id 'org.springframework.boot' version '2.4.2'
@@ -37,7 +37,7 @@ test {
 	useJUnitPlatform()
 }
 ```
-- `External Libraries`   
+### - `External Libraries`   
   웹라이브러리들의 모음. 클릭해서 라이브러리들을 볼 수 있음. `gradle`이 의존성이 있는 라이브러리들을 모두 떙겨옴.
 ![스프링사진2](../../../assets/images/spring/hello_spring2.PNG)
 
