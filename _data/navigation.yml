@@ -16,6 +16,12 @@ docs:
     children:
       - title: "STL"
         url: categories/cpp-stl
+  - title: Python-Deep
+    children:
+      - title: "python"
+        url: categories/python
+      - title: "opencv"
+        url: categories/opencv
   - title: 알고리즘
     children:
       - title: "프로그래머스"
